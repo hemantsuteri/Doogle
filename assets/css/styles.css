@@ -16,3 +16,7 @@ body{
 .card{
     background-color: rgba(0, 0, 0, 0.1);
 }
+
+.fas{
+    font-size: 4rem;
+}
